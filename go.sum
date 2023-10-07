@@ -4,3 +4,5 @@ github.com/GoesToEleven/puppy v1.3.0 h1:6kvL9k6x8STNArAn3VVdQAye+5AOM3SbxV0uPdq5
 github.com/GoesToEleven/puppy v1.3.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
 github.com/TanayaKarmakar/puppy v0.0.0-20231004003304-643792e39e86 h1:Pd9lD8FNsJKEXuIkSISEAfDxJnKF9saoumlxGjRDqFg=
 github.com/TanayaKarmakar/puppy v0.0.0-20231004003304-643792e39e86/go.mod h1:QerRxhf/5WXCw4adPorV9wsYByiLY0VfeyAQN4qWHlc=
+github.com/TanayaKarmakar/puppy v0.0.0-20231007013054-78174603b5a9 h1:GbAtGtyhX20rPEcQePBAsBo8TxTMXVEikUR8CXm7Pzo=
+github.com/TanayaKarmakar/puppy v0.0.0-20231007013054-78174603b5a9/go.mod h1:z1pxRH4xX4FGcniy5M84qnPvsC+lHf6wsdNsIPidCnY=
